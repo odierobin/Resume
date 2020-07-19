@@ -1,0 +1,128 @@
+title: "简历"
+name: "应哲"
+jobtitle: "游戏开发 ｜ 前端开发"
+contact:
+  - icon: fa-envelope
+    text: odierobin@gmail.com
+  - icon: fa-phone-square
+    text: (+86) 17717577962
+  - icon: fa-globe
+    text: odierobin.com
+    link: https://odierobin.github.io/Resume/
+  - icon: fa-github
+    text: odierobin
+    link: https://github.com/odierobin
+education:
+  - university: "上海理工大学"
+    duration: "1996/07 - 2000/12"
+    location: "上海"
+    major: "冷冻与制冷工程"
+skills:
+  - title: "编程语言"
+    items: "JavaScript(熟练), Typescript(熟练), HTML/CSS(熟练), C#(熟练), Swift, Python, PHP"
+  - title: "游戏开发"
+    items: "LayaAir(熟练), Unity(熟练), Cocos Creator"
+  - title: "前端框架"
+    items: "Vue(熟练), Node.js, Three.js"
+  - title: "其它"
+    items: "Photoshop(熟练), Git, Nginx, SVG, Shader"
+experience:
+  - title: "技术总监 ｜ 客户端"
+    duration: "2012/08 - 2020/03"
+    company: "上海嫣红计算机科技公司"
+    description: >
+      负责客户端的开发，包括Unity移动端3D游戏(C#)，LayaAir H5游戏(TypeScript)和一些配套的前端项目(Vue,Vue admin)、Ios项目(Swift)等。
+  - title: "产品经理 ｜ 客户端"
+    duration: "2008/05 - 2012/08"
+    company: "上海锐深计算机科技有限公司"
+    description: 
+      负责产品(麦客疯唱歌软件)需求, UI设计，内嵌点歌台页面(Jquery)，公司网站设计制作。
+  - title: "策划总监 ｜ 策划部"
+    duration: "2006/01 - 2007/02"
+    company: "上海鲍人房地产策划代理有限公司"
+    description: "公司网站策划，代理楼盘广告策划，公司活动策划。期间完成了公司网站和代理楼盘的网站，并成功的为代理楼盘设计制作了楼书，系列单片和户外广告等平面作品。"
+  - title: "网站策划 ｜ 网络部"
+    duration: "2004/01 - 2005/12"
+    company: "杭州古月数码科技有限公司"
+    description: "制作公司的网站并承接其他公司网站制作。期间完成了一个大型门户网站的制作。"  
+  - title: "网页设计师 ｜ 网络制作部"
+    duration: "2003/03 - 2003/8"
+    company: "中华企业网"
+    description: "制作网站，编写脚本，参与多个网站制作。"  
+projects:
+  - name: "喜欢捕鱼(微信小游戏)"
+    description: >
+      LayaAir 2D项目(2.2+版本，Typescript)，上线微信小游戏。
+      从零开始开发，完整的游戏框架，websocket通信，自定义控件。
+      包含一个独立的路径编辑器。
+    duration: "2019/03 - 2020/01"
+    contribution: 主程
+  - name: "辰龙捕鱼(手游)"
+    description: "Unity(C#)开发的移动端手游，上线App Store和Android各大应用市场。使用ScriptableObject配置数据库和多平台参数，内置路径编辑器和其他Editor工具。除了常规的游戏方式，还开发了PVP的模式及多个游戏内小游戏。"
+    duration: "2014/03 - 2020/01"
+    contribution: 主程
+    addon:
+      - text: "百度百科"
+        link: "https://bkso.baidu.com/item/%E8%BE%B0%E9%BE%99%E6%8D%95%E9%B1%BC/22461379"
+      - text: "腾讯应用宝"
+        link: "https://a.app.qq.com/o/simple.jsp?pkgname=com.tencent.tmgp.fish3d"
+  - name: "辰龙捕鱼(页游)"
+    description: "LayaAir 3D项目(1.8版本，Typescript)。项目为静态站点，通过地址栏参数响应不同配置，包括登陆用户，货币比例，外链地址等。使用websocket通信游戏服务器。基本在网页端实现了移动端App的功能。该项目主要作为小游戏嵌入其他APP或网站。"
+    duration: "2017/03 - 2019/08"
+    contribution: 主程
+  - name: "Domino Drop"
+    description: 一个学习Domino Drop的小游戏，Cocos Creator(2.4)制作。
+    duration: "2020.07 - 2020.07"
+    contribution: 独立制作
+    addon:
+      - text: 试玩地址
+        link: https://odierobin.github.io/DominoBuild/
+  - name: "MaiganTek H5"
+    description: 某App的H5数据页面Demo，Vue框架，Javascript语言开发。使用SVG开发关键UI，显示数据图表。
+    duration: "2017.12 - 2018.04"
+    contribution: 独立制作
+    addon:
+      - text: 页面截图
+        link: https://odierobin.github.io/Resume/images/maigantekh5.jpg
+  - name: "TorpedoAssistant(HTML5)"
+    description: 商城应用H5站点，Vue框架，Javascript语言，使用Vuetify组件库和Vuex，Vue Router等。
+    duration: "2018.04 -2018/06"
+    contribution: 主程
+  - name: "TorpedoAssistant(iOS App)"
+    description: 商城应用APP，Swift开发。接入支付宝和ShareSDK。
+    duration: "2017/12 - 2018/04"
+    contribution: 主程
+  - name: "桌游记分系列APP(iOS)"
+    description: 与朋友一同制作的系列桌游记分软件，上线App Store。参与所有APP的策划和制作UI(Photoshop)。
+    duration: "2011/04 - 2014/10"
+    contribution: 设计 / 产品
+    addon:
+      - text: 历史痕迹
+        link: https://applion.jp/iphone/app/448059716/
+      - text: 历史痕迹B
+        link: https://boardgamegeek.com/thread/834699/agricola-scorer-ios
+  - name: "麦客疯唱歌软件客户端"
+    description: 设计软件的需求文档，设计和制作软件界面(Photoshop和专用软件)。
+    duration: "2008/03 - 2012/08"
+    contribution: 产品经理 / 设计
+  - name: "51mike.com设计制作"
+    description: 设计制作公司的网站。采用当时最新的HTML+Div布局技术，大量使用Jquery代码。
+    duration: "2009/05 - 2010/08"
+    contribution: 网站制作
+  - name: "麦客疯唱歌软件内嵌点歌台"
+    description: 制作嵌入软件的点歌台界面，与服务端交互，获得内容，与底层交互，提供用户操作信息。主要是使用Jquery制作。
+    duration: "2008/03 - 2012/08"
+    contribution: 主程
+  - name: 内蒙古包头东河区互动屏内容制作
+    description: 制作互动屏显示内容和交互(Flash)。
+    duration: "2007/04 - 2007/12"
+    contribution: 独立制作
+  - name: 内蒙古包头东河区旅游画册制作
+    description: 应东河区旅游局的需求制作关于东河旅游的画册(Photoshop, Illustrator)，尽力展示东河旅游资源的现状和未来。
+    duration: "2006/08 - 2007/04"
+    contribution: 独立制作
+languages:
+  - name: "英语"
+    proficiency: "工作熟练"
+  - name: "中文"
+    proficiency: "母语"
