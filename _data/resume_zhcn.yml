@@ -57,6 +57,9 @@ projects:
       包含一个独立的路径编辑器。
     duration: "2019/03 - 2020/01"
     contribution: 主程
+    addon:
+      - text: "试玩地址"
+        link: "https://client.ifishbox.com/"
   - name: "辰龙捕鱼(手游)"
     description: "Unity(C#)开发的移动端手游，上线App Store和Android各大应用市场。使用ScriptableObject配置数据库和多平台参数，内置路径编辑器和其他Editor工具。除了常规的游戏方式，还开发了PVP的模式及多个游戏内小游戏。"
     duration: "2014/03 - 2020/01"
