@@ -27,6 +27,11 @@ skills:
   - title: "其它"
     items: "Photoshop(熟练), Git, Nginx, SVG, Shader"
 experience:
+  - title: "客户端主程 ｜ 客户端"
+    duration: "2022/03 - 2023/12"
+    company: "上海寻光科技有限公司"
+    description: >
+      负责客户端的开发，Unity移动端3D游戏(C#)：麻将传奇（二次元日麻养成）。构建客户端框架和各子系统，制作编辑器工具，打包iOS（Swift）。
   - title: "技术总监 ｜ 客户端"
     duration: "2012/08 - 2020/03"
     company: "上海嫣红计算机科技公司"
