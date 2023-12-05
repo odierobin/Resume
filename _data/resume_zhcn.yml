@@ -55,6 +55,16 @@ experience:
     company: "中华企业网"
     description: "制作网站，编写脚本，参与多个网站制作。"  
 projects:
+  - name: "麻将传奇（二次元日麻养成游戏）"
+    description: >
+      Unity3D项目，上线抖音合作平台，iOS，android、微信小游戏，WEB和PC端。
+      构建App框架，构建局内流程，实现角色、装扮等子系统。
+      制作编辑器内算番工具、角色配置工具和对局内容生成器。
+    duration: "2022/03 - 2023/12"
+    contribution: 主程
+    addon:
+      - text: "AppStore"
+        link: "https://apps.apple.com/cn/app/%E9%BA%BB%E5%B0%86%E4%BC%A0%E5%A5%87-%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%AB%8B%E7%9B%B4%E9%BA%BB%E5%B0%86/id6443441105"
   - name: "喜欢捕鱼(微信小游戏)"
     description: >
       LayaAir 2D项目(2.2+版本，Typescript)，上线微信小游戏。
@@ -62,9 +72,9 @@ projects:
       包含一个独立的路径编辑器。
     duration: "2019/03 - 2020/01"
     contribution: 主程
-    addon:
-      - text: "试玩地址"
-        link: "https://client.ifishbox.com/"
+    # addon:
+    #  - text: "试玩地址"
+    #    link: "https://client.ifishbox.com/"
   - name: "辰龙捕鱼(手游)"
     description: "Unity(C#)开发的移动端手游，上线App Store和Android各大应用市场。使用ScriptableObject配置数据库和多平台参数，内置路径编辑器和其他Editor工具。除了常规的游戏方式，还开发了PVP的模式及多个游戏内小游戏。"
     duration: "2014/03 - 2020/01"
