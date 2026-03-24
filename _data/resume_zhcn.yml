@@ -31,6 +31,11 @@ skills:
   - title: "其它"
     items: "Photoshop(熟练), Git, Nginx, SVG, Shader"
 experience:
+  - title: "前端程序员 ｜ 客户端"
+    duration: "2024/01 - 2026/01"
+    company: "上海去玩科技有限公司"
+    description: >
+      负责客户端的开发，Cocos2D 修仙题材手游。构建内部属性和技能等各子系统。
   - title: "客户端主程 ｜ 客户端"
     duration: "2022/03 - 2023/12"
     company: "上海寻光科技有限公司"
