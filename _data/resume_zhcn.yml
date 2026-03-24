@@ -17,6 +17,10 @@ education:
     duration: "1996/07 - 2000/12"
     location: "上海"
     major: "冷冻与制冷工程"
+  - university: "上海开放大学"
+    duration: "2023/09 - 2026/01"
+    location: "上海"
+    major: "机械电子工程"
 skills:
   - title: "编程语言"
     items: "JavaScript(熟练), Typescript(熟练), HTML/CSS(熟练), C#(熟练), Swift, Python, PHP"
@@ -55,6 +59,12 @@ experience:
     company: "中华企业网"
     description: "制作网站，编写脚本，参与多个网站制作。"  
 projects:
+  - name: "修仙题材手游"
+    description: >
+      Cocos2D项目，微信小游戏，WEB和PC端。
+      负责前端玩家数据相关的各子系统：装备、属性、技能等。
+    duration: "2024/01 - 2026/01"
+    contribution: 前端程序员
   - name: "麻将传奇（二次元日麻养成游戏）"
     description: >
       Unity3D项目，上线抖音合作平台，iOS，android、微信小游戏，WEB和PC端。
